@@ -40,7 +40,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-mongodb.git
+   git clone https://github.com/diaaqassem/mongodb-task.git
    cd mongodb-task
 2.Install dependencies:
   npm install
